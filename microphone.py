@@ -3,7 +3,7 @@ import numpy as np
 import pyaudio
 import config
 
-# Created by Roshan Lamichhane
+# Created by Dan Makes
 
 def start_stream(callback):
     p = pyaudio.PyAudio()

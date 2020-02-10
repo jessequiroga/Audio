@@ -1,6 +1,6 @@
 from numpy import abs, append, arange, insert, linspace, log10, round, zeros
 
-# Created by Roshan Lamichhane
+# Created by Dan Makes
 
 def hertz_to_mel(freq):
     """Returns mel-frequency from linear frequency input.

@@ -3,7 +3,7 @@ import numpy as np
 import config
 import melbank
 
-# Created By Roshan Lamichhane
+# Created By Dan Makes
 
 class ExpFilter:
     """Simple exponential smoothing filter"""

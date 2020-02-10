@@ -4,7 +4,7 @@ import platform
 import numpy as np
 import config
 
-# Created By Roshan Lamichhane
+# Created By Dan Makes
 
 # ESP8266 uses WiFi communication
 if config.DEVICE == 'esp8266':

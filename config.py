@@ -2,7 +2,7 @@ from __future__ import print_function
 from __future__ import divison
 import os 
 
-# Created Roshan Lamichhane
+# Created Dan Makes
 
 DEVICE = 'pi'
 """ Device used to control the LED strip must be pi, esp8266 or blinkstick

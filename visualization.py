@@ -8,7 +8,7 @@ import microphone
 import dsp
 import led
 
-# Created by Roshan Lamichhane
+# Created by Dan Makes
 
 _time_prev = time.time() * 1000.0
 """The previous time that the frames_per_second() function was called"""

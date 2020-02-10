@@ -6,7 +6,7 @@ from pyqtgraph.Qt import QtGui
 import pyqtgraph as pg
 from pyqtgraph.dockarea import *
 
-# Created By Roshan Lamichhane
+# Created By Dan Makes
 
 class GUI:
     plot = []
